@@ -1,4 +1,4 @@
-import { prisma } from "../db"
+import prisma from "../db"
 import User from "./user.model";
 
 class UserRepository {
